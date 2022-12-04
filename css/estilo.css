@@ -157,7 +157,7 @@ header{
     color: #2196f3;
 }
 
-h4{
+.tres h4{
     font-size: 1.2rem;
     margin-bottom: 15px;
     color: #414a4f
@@ -168,4 +168,18 @@ h4{
 }
 
 
+/*Cuarta Seccion*/
 
+.cuatro div{
+    width: 600px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.cuatro h4{
+    color: #414a4f;
+    font-size: .8rem;
+    font-weight: 200;
+    margin-bottom: 40px;
+}
